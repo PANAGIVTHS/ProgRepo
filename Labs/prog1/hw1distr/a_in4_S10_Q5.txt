@@ -1,0 +1,29 @@
+3
+A D V P Q B A B F M B
+-0.15
+B C D V P C - A
+C B * $ L A B * * A
+A B A A B 
+C A B C A 
+A A C A C 
+C B B B - 
+A - B B B 
+- - - - - 
+A B - C - 
+C C A B A 
+m
+r
+p
+w
+k
+s
+H
+G
+7-9
+I
+3-8
+g
+4-6
+i
+0-9
+Q

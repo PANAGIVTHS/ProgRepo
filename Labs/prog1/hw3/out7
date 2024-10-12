@@ -1,0 +1,404 @@
+
+
+a: add course
+r: remove course
+s: schedule lecture
+c: print courses
+p: print schedule
+q: quit
+
+Professor course students:
+130 added.
+
+
+a: add course
+r: remove course
+s: schedule lecture
+c: print courses
+p: print schedule
+q: quit
+
+Professor course students:
+120 added.
+
+
+a: add course
+r: remove course
+s: schedule lecture
+c: print courses
+p: print schedule
+q: quit
+
+Professor course students:
+140 added.
+
+
+a: add course
+r: remove course
+s: schedule lecture
+c: print courses
+p: print schedule
+q: quit
+
+Professor course students:
+150 added.
+
+
+a: add course
+r: remove course
+s: schedule lecture
+c: print courses
+p: print schedule
+q: quit
+
+Course duration:
+140 scheduled in 1.
+
+
+a: add course
+r: remove course
+s: schedule lecture
+c: print courses
+p: print schedule
+q: quit
+
+Course duration:
+120 scheduled in 0.
+
+
+a: add course
+r: remove course
+s: schedule lecture
+c: print courses
+p: print schedule
+q: quit
+
+Course duration:
+130 scheduled in 0.
+
+
+a: add course
+r: remove course
+s: schedule lecture
+c: print courses
+p: print schedule
+q: quit
+
+Course duration:
+150 scheduled in 1.
+
+
+a: add course
+r: remove course
+s: schedule lecture
+c: print courses
+p: print schedule
+q: quit
+
+Course:
+140 deleted.
+
+
+a: add course
+r: remove course
+s: schedule lecture
+c: print courses
+p: print schedule
+q: quit
+
+
+[20]
+       MON
+10:00  120 
+11:00  130 
+12:00  130 
+
+[40]
+       MON
+10:00   -  
+11:00   -  
+12:00  150 
+
+
+a: add course
+r: remove course
+s: schedule lecture
+c: print courses
+p: print schedule
+q: quit
+
+[130] Jones 10
+[120] Smith 20
+[150] Malone 40
+
+
+a: add course
+r: remove course
+s: schedule lecture
+c: print courses
+p: print schedule
+q: quit
+
+Course:
+120 deleted.
+
+
+a: add course
+r: remove course
+s: schedule lecture
+c: print courses
+p: print schedule
+q: quit
+
+
+[20]
+       MON
+10:00   -  
+11:00  130 
+12:00  130 
+
+[40]
+       MON
+10:00   -  
+11:00   -  
+12:00  150 
+
+
+a: add course
+r: remove course
+s: schedule lecture
+c: print courses
+p: print schedule
+q: quit
+
+[130] Jones 10
+[150] Malone 40
+
+
+a: add course
+r: remove course
+s: schedule lecture
+c: print courses
+p: print schedule
+q: quit
+
+Professor course students:
+170 added.
+
+
+a: add course
+r: remove course
+s: schedule lecture
+c: print courses
+p: print schedule
+q: quit
+
+Course duration:
+170 scheduled in 1.
+
+
+a: add course
+r: remove course
+s: schedule lecture
+c: print courses
+p: print schedule
+q: quit
+
+
+[20]
+       MON
+10:00   -  
+11:00  130 
+12:00  130 
+
+[40]
+       MON
+10:00  170 
+11:00   -  
+12:00  150 
+
+
+a: add course
+r: remove course
+s: schedule lecture
+c: print courses
+p: print schedule
+q: quit
+
+[130] Jones 10
+[170] Patel 25
+[150] Malone 40
+
+
+a: add course
+r: remove course
+s: schedule lecture
+c: print courses
+p: print schedule
+q: quit
+
+Course:
+150 deleted.
+
+
+a: add course
+r: remove course
+s: schedule lecture
+c: print courses
+p: print schedule
+q: quit
+
+
+[20]
+       MON
+10:00   -  
+11:00  130 
+12:00  130 
+
+[40]
+       MON
+10:00  170 
+11:00   -  
+12:00   -  
+
+
+a: add course
+r: remove course
+s: schedule lecture
+c: print courses
+p: print schedule
+q: quit
+
+[130] Jones 10
+[170] Patel 25
+
+
+a: add course
+r: remove course
+s: schedule lecture
+c: print courses
+p: print schedule
+q: quit
+
+Professor course students:
+160 added.
+
+
+a: add course
+r: remove course
+s: schedule lecture
+c: print courses
+p: print schedule
+q: quit
+
+[130] Jones 10
+[170] Patel 25
+[160] O'Connor 10
+
+
+a: add course
+r: remove course
+s: schedule lecture
+c: print courses
+p: print schedule
+q: quit
+
+Course duration:
+160 scheduled in 1.
+
+
+a: add course
+r: remove course
+s: schedule lecture
+c: print courses
+p: print schedule
+q: quit
+
+Course:
+130 deleted.
+
+
+a: add course
+r: remove course
+s: schedule lecture
+c: print courses
+p: print schedule
+q: quit
+
+
+[20]
+       MON
+10:00   -  
+11:00   -  
+12:00   -  
+
+[40]
+       MON
+10:00  170 
+11:00  160 
+12:00  160 
+
+
+a: add course
+r: remove course
+s: schedule lecture
+c: print courses
+p: print schedule
+q: quit
+
+[170] Patel 25
+[160] O'Connor 10
+
+
+a: add course
+r: remove course
+s: schedule lecture
+c: print courses
+p: print schedule
+q: quit
+
+Professor course students:
+180 added.
+
+
+a: add course
+r: remove course
+s: schedule lecture
+c: print courses
+p: print schedule
+q: quit
+
+[180] Keller 1
+[170] Patel 25
+[160] O'Connor 10
+
+
+a: add course
+r: remove course
+s: schedule lecture
+c: print courses
+p: print schedule
+q: quit
+
+Course:
+180 deleted.
+
+
+a: add course
+r: remove course
+s: schedule lecture
+c: print courses
+p: print schedule
+q: quit
+
+[170] Patel 25
+[160] O'Connor 10
+
+
+a: add course
+r: remove course
+s: schedule lecture
+c: print courses
+p: print schedule
+q: quit
+

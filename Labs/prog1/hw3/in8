@@ -1,0 +1,52 @@
+a Addison 120 11                                                                
+a Coleman 130 5                                                                 
+a Coleman 140 30                                                                
+a Davis 150 15                                                                  
+a Elliot 160 10                                                                 
+a Ferguson 170 9                                                                
+a Ferguson 180 17                                                               
+a Nome 100 200                                                                  
+s 100 1                                                                         
+s 120 4                                                                         
+s 130 6                                                                         
+s 130 3                                                                         
+s 130 3                                                                         
+s 140 2                                                                         
+s 150 3                                                                         
+s 160 4                                                                         
+s 100 1                                                                         
+s 170 3                                                                         
+s 170 2                                                                         
+s 180 2                                                                         
+s 180 5                                                                         
+s 180 4                                                                         
+s 100 1                                                                         
+s 180 3                                                                         
+s 120 5                                                                         
+s 160 2                                                                         
+s 130 3                                                                         
+s 170 1                                                                         
+s 170 2                                                                         
+s 160 1                                                                         
+s 140 2                                                                         
+s 170 1                                                                         
+s 160 1                                                                         
+s 160 1                                                                         
+p                                                                               
+r 170                                                                           
+s 140 2                                                                         
+s 130 2                                                                         
+a Gardner 190 10                                                                
+s 190 3                                                                         
+s 180 1                                                                         
+p                                                                               
+c                                                                               
+a Havel 210
+s 180 1                                                                         
+r 140                                                                           
+a Gardner 200 5                                                                 
+s 200 2                                                                         
+s 200 2                                                                         
+p                                                                               
+c                                                                               
+q

@@ -1,0 +1,20 @@
+a Abel 120 20
+a Gordon 130 10
+a Abel 140 30
+a Gordon 150 40
+a Abel 160 35
+s 120 2
+p
+s 140 1
+p
+s 130 2
+p
+s 150 2
+p
+s 150 2
+p
+s 130 1
+p
+s 150 1
+p
+q

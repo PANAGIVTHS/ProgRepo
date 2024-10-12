@@ -1,0 +1,19 @@
+add.c: In function ‘main’:
+add.c:146:5: warning: implicit declaration of function ‘test’ [-Wimplicit-function-declaration]
+  146 |     test(" error: ");
+      |     ^~~~
+add.c:134:19: warning: unused variable ‘error’ [-Wunused-variable]
+  134 |     int i, j , k, error;
+      |                   ^~~~~
+add.c:134:16: warning: unused variable ‘k’ [-Wunused-variable]
+  134 |     int i, j , k, error;
+      |                ^
+add.c:134:12: warning: unused variable ‘j’ [-Wunused-variable]
+  134 |     int i, j , k, error;
+      |            ^
+add.c:134:9: warning: unused variable ‘i’ [-Wunused-variable]
+  134 |     int i, j , k, error;
+      |         ^
+/usr/bin/ld: /tmp/ccNSyjza.o: in function `main':
+/home/prog1/Desktop/Labs/prog2/proj4/add.c:146: undefined reference to `test'
+collect2: error: ld returned 1 exit status

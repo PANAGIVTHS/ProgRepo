@@ -1,0 +1,101 @@
+Enter voter info:
+Enter voter info:
+Enter voter info:
+Enter voter info:
+Enter voter info:
+Enter voter info:
+Enter voter info:
+Enter voter info:
+Enter voter info:
+Enter voter info:
+Enter voter info:
+Enter voter info:
+Enter voter info:
+Enter voter info:
+
+[P/p] Print voter info
+[C/c] Print candidate info
+[W/w] Print winner
+[G/g] Print choice by gender
+[A/a] Print ages
+[Q/q] Quit
+
+
+##
+  0:  39 F 3
+  1:  40 M 3
+  2:  18 O 6
+  3:  60 F 3
+  4:  58 M 3
+  5:  35 F 4
+  6:  64 O 4
+  7:  20 M -
+  8:  99 M 2
+  9: 127 F 4
+ 10:  80 M 2
+ 11:  75 F -
+ 12: 100 M 4
+ 13:  32 O -
+
+[P/p] Print voter info
+[C/c] Print candidate info
+[W/w] Print winner
+[G/g] Print choice by gender
+[A/a] Print ages
+[Q/q] Quit
+
+
+##
+  0:   0   0   0
+  1:   0   0   0
+  2:   2   0   0
+  3:   2   2   0
+  4:   1   2   1
+  5:   0   0   0
+  6:   0   0   1
+
+[P/p] Print voter info
+[C/c] Print candidate info
+[W/w] Print winner
+[G/g] Print choice by gender
+[A/a] Print ages
+[Q/q] Quit
+
+
+##
+3: 4
+
+[P/p] Print voter info
+[C/c] Print candidate info
+[W/w] Print winner
+[G/g] Print choice by gender
+[A/a] Print ages
+[Q/q] Quit
+
+
+##
+M: 2 (2)
+F: 3 (2)
+O: 4 (1)
+
+[P/p] Print voter info
+[C/c] Print candidate info
+[W/w] Print winner
+[G/g] Print choice by gender
+[A/a] Print ages
+[Q/q] Quit
+
+
+##
+[18-29]: 2
+[30-44]: 4
+[45-59]: 1
+[60-127]: 7
+
+[P/p] Print voter info
+[C/c] Print candidate info
+[W/w] Print winner
+[G/g] Print choice by gender
+[A/a] Print ages
+[Q/q] Quit
+

@@ -1,0 +1,32 @@
+a Jones 130 10                                                                  
+a Smith 120 20                                                                  
+a Baker 140 30                                                                  
+a Malone 150 40                                                                 
+s 140 2                                                                         
+s 120 1                                                                         
+s 130 2                                                                         
+s 150 1                                                                         
+r 140                                                                           
+p                                                                               
+c                                                                               
+r 120                                                                           
+p                                                                               
+c                                                                               
+a Patel 170 25
+s 170 1
+p
+c
+r 150                                                                           
+p                                                                               
+c
+a O'Connor 160 10
+c                                                                               
+s 160 2
+r 130 
+p
+c
+a Keller 180 1
+c
+r 180
+c
+q

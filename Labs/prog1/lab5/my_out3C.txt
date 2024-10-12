@@ -1,0 +1,18 @@
+Word to check:
+Dictionary words:
+"The" distance: 4
+"Nutshell" distance: 8
+"Taunt" distance: 3
+"Cryptic" distance: 4
+"A" distance: 5
+"O'clock" distance: 7
+"Triplications" distance: 9
+"Crown" distance: 4
+"Triptych" distance: 3
+"Experimentation" distance: 15
+"Plant" distance: 4
+"Cryonic" distance: 6
+"Crypto" distance: 3
+"Oh" distance: 5
+"Tript" is not correct.
+Suggestion: "Crypto" 3

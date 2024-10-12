@@ -1,0 +1,24 @@
+a Smith 120 20                                                                  
+a Jones 130 10                                                                  
+a Baker 140 30                                                                  
+a Malone 150 40                                                                 
+s 140 2                                                                         
+s 120 1                                                                         
+s 130 2                                                                         
+s 150 1                                                                         
+p                                                                               
+r 110                                                                           
+r 140                                                                           
+p                                                                               
+c                                                                               
+r 130                                                                           
+p                                                                               
+c                                                                               
+r 150                                                                           
+p                                                                               
+c                                                                               
+r 120                                                                           
+p                                                                               
+c                                                                               
+r 140
+q

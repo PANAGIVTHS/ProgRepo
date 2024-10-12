@@ -1,0 +1,165 @@
+Enter voter info:
+Invalid age 16.
+Enter voter info:
+Invalid age 17.
+Enter voter info:
+Invalid gender.
+Enter voter info:
+Invalid votes 2.
+Enter voter info:
+Invalid votes 3.
+Enter voter info:
+Invalid votes 4.
+Enter voter info:
+Invalid age 17.
+Invalid gender.
+Enter voter info:
+Invalid age 14.
+Invalid gender.
+Invalid votes 5.
+Enter voter info:
+
+[P/p] Print voter info
+[C/c] Print candidate info
+[W/w] Print winner
+[G/g] Print choice by gender
+[A/a] Print ages
+[Q/q] Quit
+
+Error. Invalid option.
+
+[P/p] Print voter info
+[C/c] Print candidate info
+[W/w] Print winner
+[G/g] Print choice by gender
+[A/a] Print ages
+[Q/q] Quit
+
+Error. Invalid option.
+
+[P/p] Print voter info
+[C/c] Print candidate info
+[W/w] Print winner
+[G/g] Print choice by gender
+[A/a] Print ages
+[Q/q] Quit
+
+Error. Invalid option.
+
+[P/p] Print voter info
+[C/c] Print candidate info
+[W/w] Print winner
+[G/g] Print choice by gender
+[A/a] Print ages
+[Q/q] Quit
+
+
+##
+M: 0 (0)
+F: 0 (0)
+O: 0 (0)
+
+[P/p] Print voter info
+[C/c] Print candidate info
+[W/w] Print winner
+[G/g] Print choice by gender
+[A/a] Print ages
+[Q/q] Quit
+
+
+##
+  0:   0   0   0
+  1:   0   0   0
+  2:   0   0   0
+  3:   0   0   0
+  4:   0   0   0
+  5:   0   0   0
+  6:   0   0   0
+
+[P/p] Print voter info
+[C/c] Print candidate info
+[W/w] Print winner
+[G/g] Print choice by gender
+[A/a] Print ages
+[Q/q] Quit
+
+Error. Invalid option.
+
+[P/p] Print voter info
+[C/c] Print candidate info
+[W/w] Print winner
+[G/g] Print choice by gender
+[A/a] Print ages
+[Q/q] Quit
+
+
+##
+
+[P/p] Print voter info
+[C/c] Print candidate info
+[W/w] Print winner
+[G/g] Print choice by gender
+[A/a] Print ages
+[Q/q] Quit
+
+
+##
+0: 0
+
+[P/p] Print voter info
+[C/c] Print candidate info
+[W/w] Print winner
+[G/g] Print choice by gender
+[A/a] Print ages
+[Q/q] Quit
+
+Error. Invalid option.
+
+[P/p] Print voter info
+[C/c] Print candidate info
+[W/w] Print winner
+[G/g] Print choice by gender
+[A/a] Print ages
+[Q/q] Quit
+
+Error. Invalid option.
+
+[P/p] Print voter info
+[C/c] Print candidate info
+[W/w] Print winner
+[G/g] Print choice by gender
+[A/a] Print ages
+[Q/q] Quit
+
+Error. Invalid option.
+
+[P/p] Print voter info
+[C/c] Print candidate info
+[W/w] Print winner
+[G/g] Print choice by gender
+[A/a] Print ages
+[Q/q] Quit
+
+Error. Invalid option.
+
+[P/p] Print voter info
+[C/c] Print candidate info
+[W/w] Print winner
+[G/g] Print choice by gender
+[A/a] Print ages
+[Q/q] Quit
+
+
+##
+[18-29]: 0
+[30-44]: 0
+[45-59]: 0
+[60-127]: 0
+
+[P/p] Print voter info
+[C/c] Print candidate info
+[W/w] Print winner
+[G/g] Print choice by gender
+[A/a] Print ages
+[Q/q] Quit
+

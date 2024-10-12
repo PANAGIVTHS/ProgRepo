@@ -1,0 +1,9 @@
+Word to check:
+Dictionary words:
+"Yearly" distance: 4
+"Yelper" distance: 3
+"Flames" distance: 6
+"Yeller" distance: 2
+"Yapper" distance: 5
+"Yellou" is not correct.
+Suggestion: "Yeller" 2

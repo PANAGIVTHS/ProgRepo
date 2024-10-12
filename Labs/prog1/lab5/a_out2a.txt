@@ -1,0 +1,6 @@
+Word to check:
+Dictionary words:
+"Yearly" distance: 4
+"Yelper" distance: 3
+"Mellow" distance: 1
+"Yellow" is correct.

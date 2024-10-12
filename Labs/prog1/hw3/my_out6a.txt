@@ -1,0 +1,311 @@
+
+
+a: add course
+r: remove course
+s: schedule lecture
+c: print courses
+p: print schedule
+q: quit
+
+Professor course students:
+120 added.
+
+
+a: add course
+r: remove course
+s: schedule lecture
+c: print courses
+p: print schedule
+q: quit
+
+Professor course students:
+130 added.
+
+
+a: add course
+r: remove course
+s: schedule lecture
+c: print courses
+p: print schedule
+q: quit
+
+Professor course students:
+140 added.
+
+
+a: add course
+r: remove course
+s: schedule lecture
+c: print courses
+p: print schedule
+q: quit
+
+Professor course students:
+150 added.
+
+
+a: add course
+r: remove course
+s: schedule lecture
+c: print courses
+p: print schedule
+q: quit
+
+Course duration:
+140 scheduled in 1.
+
+
+a: add course
+r: remove course
+s: schedule lecture
+c: print courses
+p: print schedule
+q: quit
+
+Course duration:
+120 scheduled in 0.
+
+
+a: add course
+r: remove course
+s: schedule lecture
+c: print courses
+p: print schedule
+q: quit
+
+Course duration:
+130 scheduled in 0.
+
+
+a: add course
+r: remove course
+s: schedule lecture
+c: print courses
+p: print schedule
+q: quit
+
+Course duration:
+150 scheduled in 1.
+
+
+a: add course
+r: remove course
+s: schedule lecture
+c: print courses
+p: print schedule
+q: quit
+
+
+[20]
+       MON
+10:00  120 
+11:00  130 
+12:00  130 
+
+[40]
+       MON
+10:00  140 
+11:00  140 
+12:00  150 
+
+
+a: add course
+r: remove course
+s: schedule lecture
+c: print courses
+p: print schedule
+q: quit
+
+Course:
+110 not deleted.
+
+
+a: add course
+r: remove course
+s: schedule lecture
+c: print courses
+p: print schedule
+q: quit
+
+Course:
+140 deleted.
+
+
+a: add course
+r: remove course
+s: schedule lecture
+c: print courses
+p: print schedule
+q: quit
+
+
+[20]
+       MON
+10:00  120 
+11:00  130 
+12:00  130 
+
+[40]
+       MON
+10:00   -  
+11:00   -  
+12:00  150 
+
+
+a: add course
+r: remove course
+s: schedule lecture
+c: print courses
+p: print schedule
+q: quit
+
+[120] Smith 20
+[130] Jones 10
+[150] Malone 40
+
+
+a: add course
+r: remove course
+s: schedule lecture
+c: print courses
+p: print schedule
+q: quit
+
+Course:
+130 deleted.
+
+
+a: add course
+r: remove course
+s: schedule lecture
+c: print courses
+p: print schedule
+q: quit
+
+
+[20]
+       MON
+10:00  120 
+11:00   -  
+12:00   -  
+
+[40]
+       MON
+10:00   -  
+11:00   -  
+12:00  150 
+
+
+a: add course
+r: remove course
+s: schedule lecture
+c: print courses
+p: print schedule
+q: quit
+
+[120] Smith 20
+[150] Malone 40
+
+
+a: add course
+r: remove course
+s: schedule lecture
+c: print courses
+p: print schedule
+q: quit
+
+Course:
+150 deleted.
+
+
+a: add course
+r: remove course
+s: schedule lecture
+c: print courses
+p: print schedule
+q: quit
+
+
+[20]
+       MON
+10:00  120 
+11:00   -  
+12:00   -  
+
+[40]
+       MON
+10:00   -  
+11:00   -  
+12:00   -  
+
+
+a: add course
+r: remove course
+s: schedule lecture
+c: print courses
+p: print schedule
+q: quit
+
+[120] Smith 20
+
+
+a: add course
+r: remove course
+s: schedule lecture
+c: print courses
+p: print schedule
+q: quit
+
+Course:
+120 deleted.
+
+
+a: add course
+r: remove course
+s: schedule lecture
+c: print courses
+p: print schedule
+q: quit
+
+
+[20]
+       MON
+10:00   -  
+11:00   -  
+12:00   -  
+
+[40]
+       MON
+10:00   -  
+11:00   -  
+12:00   -  
+
+
+a: add course
+r: remove course
+s: schedule lecture
+c: print courses
+p: print schedule
+q: quit
+
+No courses.
+
+
+a: add course
+r: remove course
+s: schedule lecture
+c: print courses
+p: print schedule
+q: quit
+
+Course:
+140 not deleted.
+
+
+a: add course
+r: remove course
+s: schedule lecture
+c: print courses
+p: print schedule
+q: quit
+

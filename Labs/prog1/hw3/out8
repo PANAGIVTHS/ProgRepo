@@ -1,0 +1,648 @@
+
+
+a: add course
+r: remove course
+s: schedule lecture
+c: print courses
+p: print schedule
+q: quit
+
+Professor course students:
+120 added.
+
+
+a: add course
+r: remove course
+s: schedule lecture
+c: print courses
+p: print schedule
+q: quit
+
+Professor course students:
+130 added.
+
+
+a: add course
+r: remove course
+s: schedule lecture
+c: print courses
+p: print schedule
+q: quit
+
+Professor course students:
+140 added.
+
+
+a: add course
+r: remove course
+s: schedule lecture
+c: print courses
+p: print schedule
+q: quit
+
+Professor course students:
+150 added.
+
+
+a: add course
+r: remove course
+s: schedule lecture
+c: print courses
+p: print schedule
+q: quit
+
+Professor course students:
+160 added.
+
+
+a: add course
+r: remove course
+s: schedule lecture
+c: print courses
+p: print schedule
+q: quit
+
+Professor course students:
+170 added.
+
+
+a: add course
+r: remove course
+s: schedule lecture
+c: print courses
+p: print schedule
+q: quit
+
+Professor course students:
+180 added.
+
+
+a: add course
+r: remove course
+s: schedule lecture
+c: print courses
+p: print schedule
+q: quit
+
+Professor course students:
+100 added.
+
+
+a: add course
+r: remove course
+s: schedule lecture
+c: print courses
+p: print schedule
+q: quit
+
+Course duration:
+100 not scheduled.
+
+
+a: add course
+r: remove course
+s: schedule lecture
+c: print courses
+p: print schedule
+q: quit
+
+Course duration:
+120 scheduled in 1.
+
+
+a: add course
+r: remove course
+s: schedule lecture
+c: print courses
+p: print schedule
+q: quit
+
+Course duration:
+130 not scheduled.
+
+
+a: add course
+r: remove course
+s: schedule lecture
+c: print courses
+p: print schedule
+q: quit
+
+Course duration:
+130 scheduled in 0.
+
+
+a: add course
+r: remove course
+s: schedule lecture
+c: print courses
+p: print schedule
+q: quit
+
+Course duration:
+130 scheduled in 0.
+
+
+a: add course
+r: remove course
+s: schedule lecture
+c: print courses
+p: print schedule
+q: quit
+
+Course duration:
+140 scheduled in 2.
+
+
+a: add course
+r: remove course
+s: schedule lecture
+c: print courses
+p: print schedule
+q: quit
+
+Course duration:
+150 scheduled in 1.
+
+
+a: add course
+r: remove course
+s: schedule lecture
+c: print courses
+p: print schedule
+q: quit
+
+Course duration:
+160 scheduled in 0.
+
+
+a: add course
+r: remove course
+s: schedule lecture
+c: print courses
+p: print schedule
+q: quit
+
+Course duration:
+100 not scheduled.
+
+
+a: add course
+r: remove course
+s: schedule lecture
+c: print courses
+p: print schedule
+q: quit
+
+Course duration:
+170 scheduled in 1.
+
+
+a: add course
+r: remove course
+s: schedule lecture
+c: print courses
+p: print schedule
+q: quit
+
+Course duration:
+170 scheduled in 0.
+
+
+a: add course
+r: remove course
+s: schedule lecture
+c: print courses
+p: print schedule
+q: quit
+
+Course duration:
+180 scheduled in 1.
+
+
+a: add course
+r: remove course
+s: schedule lecture
+c: print courses
+p: print schedule
+q: quit
+
+Course duration:
+180 not scheduled.
+
+
+a: add course
+r: remove course
+s: schedule lecture
+c: print courses
+p: print schedule
+q: quit
+
+Course duration:
+180 not scheduled.
+
+
+a: add course
+r: remove course
+s: schedule lecture
+c: print courses
+p: print schedule
+q: quit
+
+Course duration:
+100 not scheduled.
+
+
+a: add course
+r: remove course
+s: schedule lecture
+c: print courses
+p: print schedule
+q: quit
+
+Course duration:
+180 scheduled in 2.
+
+
+a: add course
+r: remove course
+s: schedule lecture
+c: print courses
+p: print schedule
+q: quit
+
+Course duration:
+120 scheduled in 2.
+
+
+a: add course
+r: remove course
+s: schedule lecture
+c: print courses
+p: print schedule
+q: quit
+
+Course duration:
+160 scheduled in 0.
+
+
+a: add course
+r: remove course
+s: schedule lecture
+c: print courses
+p: print schedule
+q: quit
+
+Course duration:
+130 scheduled in 2.
+
+
+a: add course
+r: remove course
+s: schedule lecture
+c: print courses
+p: print schedule
+q: quit
+
+Course duration:
+170 scheduled in 0.
+
+
+a: add course
+r: remove course
+s: schedule lecture
+c: print courses
+p: print schedule
+q: quit
+
+Course duration:
+170 not scheduled.
+
+
+a: add course
+r: remove course
+s: schedule lecture
+c: print courses
+p: print schedule
+q: quit
+
+Course duration:
+160 scheduled in 1.
+
+
+a: add course
+r: remove course
+s: schedule lecture
+c: print courses
+p: print schedule
+q: quit
+
+Course duration:
+140 scheduled in 2.
+
+
+a: add course
+r: remove course
+s: schedule lecture
+c: print courses
+p: print schedule
+q: quit
+
+Course duration:
+170 scheduled in 1.
+
+
+a: add course
+r: remove course
+s: schedule lecture
+c: print courses
+p: print schedule
+q: quit
+
+Course duration:
+160 scheduled in 1.
+
+
+a: add course
+r: remove course
+s: schedule lecture
+c: print courses
+p: print schedule
+q: quit
+
+Course duration:
+160 not scheduled.
+
+
+a: add course
+r: remove course
+s: schedule lecture
+c: print courses
+p: print schedule
+q: quit
+
+
+[10]
+       MON TUE WED
+10:00  130 130 160 
+11:00  130 130 160 
+12:00  130 130 160 
+13:00  170 160 160 
+14:00  170 160 170 
+
+[20]
+       MON TUE WED
+10:00  120 150 170 
+11:00  120 150 170 
+12:00  120 150 170 
+13:00  120 180 170 
+14:00  160 180 160 
+
+[100]
+       MON TUE WED
+10:00  180 120 140 
+11:00  180 120 140 
+12:00  180 120 130 
+13:00  140 120 130 
+14:00  140 120 130 
+
+
+a: add course
+r: remove course
+s: schedule lecture
+c: print courses
+p: print schedule
+q: quit
+
+Course:
+170 deleted.
+
+
+a: add course
+r: remove course
+s: schedule lecture
+c: print courses
+p: print schedule
+q: quit
+
+Course duration:
+140 not scheduled.
+
+
+a: add course
+r: remove course
+s: schedule lecture
+c: print courses
+p: print schedule
+q: quit
+
+Course duration:
+130 not scheduled.
+
+
+a: add course
+r: remove course
+s: schedule lecture
+c: print courses
+p: print schedule
+q: quit
+
+Professor course students:
+190 added.
+
+
+a: add course
+r: remove course
+s: schedule lecture
+c: print courses
+p: print schedule
+q: quit
+
+Course duration:
+190 scheduled in 1.
+
+
+a: add course
+r: remove course
+s: schedule lecture
+c: print courses
+p: print schedule
+q: quit
+
+Course duration:
+180 scheduled in 1.
+
+
+a: add course
+r: remove course
+s: schedule lecture
+c: print courses
+p: print schedule
+q: quit
+
+
+[10]
+       MON TUE WED
+10:00  130 130 160 
+11:00  130 130 160 
+12:00  130 130 160 
+13:00   -  160 160 
+14:00   -  160  -  
+
+[20]
+       MON TUE WED
+10:00  120 150 190 
+11:00  120 150 190 
+12:00  120 150 190 
+13:00  120 180 180 
+14:00  160 180 160 
+
+[100]
+       MON TUE WED
+10:00  180 120 140 
+11:00  180 120 140 
+12:00  180 120 130 
+13:00  140 120 130 
+14:00  140 120 130 
+
+
+a: add course
+r: remove course
+s: schedule lecture
+c: print courses
+p: print schedule
+q: quit
+
+[120] Addison 11
+[130] Coleman 5
+[140] Coleman 30
+[150] Davis 15
+[160] Elliot 10
+[190] Gardner 10
+[180] Ferguson 17
+[100] Nome 200
+
+
+a: add course
+r: remove course
+s: schedule lecture
+c: print courses
+p: print schedule
+q: quit
+
+Professor course students:
+No space.
+
+
+a: add course
+r: remove course
+s: schedule lecture
+c: print courses
+p: print schedule
+q: quit
+
+Course duration:
+180 not scheduled.
+
+
+a: add course
+r: remove course
+s: schedule lecture
+c: print courses
+p: print schedule
+q: quit
+
+Course:
+140 deleted.
+
+
+a: add course
+r: remove course
+s: schedule lecture
+c: print courses
+p: print schedule
+q: quit
+
+Professor course students:
+200 added.
+
+
+a: add course
+r: remove course
+s: schedule lecture
+c: print courses
+p: print schedule
+q: quit
+
+Course duration:
+200 scheduled in 0.
+
+
+a: add course
+r: remove course
+s: schedule lecture
+c: print courses
+p: print schedule
+q: quit
+
+Course duration:
+200 not scheduled.
+
+
+a: add course
+r: remove course
+s: schedule lecture
+c: print courses
+p: print schedule
+q: quit
+
+
+[10]
+       MON TUE WED
+10:00  130 130 160 
+11:00  130 130 160 
+12:00  130 130 160 
+13:00  200 160 160 
+14:00  200 160  -  
+
+[20]
+       MON TUE WED
+10:00  120 150 190 
+11:00  120 150 190 
+12:00  120 150 190 
+13:00  120 180 180 
+14:00  160 180 160 
+
+[100]
+       MON TUE WED
+10:00  180 120  -  
+11:00  180 120  -  
+12:00  180 120 130 
+13:00   -  120 130 
+14:00   -  120 130 
+
+
+a: add course
+r: remove course
+s: schedule lecture
+c: print courses
+p: print schedule
+q: quit
+
+[120] Addison 11
+[130] Coleman 5
+[200] Gardner 5
+[150] Davis 15
+[160] Elliot 10
+[190] Gardner 10
+[180] Ferguson 17
+[100] Nome 200
+
+
+a: add course
+r: remove course
+s: schedule lecture
+c: print courses
+p: print schedule
+q: quit
+

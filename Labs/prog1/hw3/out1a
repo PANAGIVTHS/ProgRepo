@@ -1,0 +1,120 @@
+
+
+a: add course
+r: remove course
+s: schedule lecture
+c: print courses
+p: print schedule
+q: quit
+
+Professor course students:
+120 added.
+
+
+a: add course
+r: remove course
+s: schedule lecture
+c: print courses
+p: print schedule
+q: quit
+
+Professor course students:
+120 exists.
+
+
+a: add course
+r: remove course
+s: schedule lecture
+c: print courses
+p: print schedule
+q: quit
+
+[120] Smith 10
+
+
+a: add course
+r: remove course
+s: schedule lecture
+c: print courses
+p: print schedule
+q: quit
+
+Professor course students:
+130 added.
+
+
+a: add course
+r: remove course
+s: schedule lecture
+c: print courses
+p: print schedule
+q: quit
+
+Professor course students:
+140 added.
+
+
+a: add course
+r: remove course
+s: schedule lecture
+c: print courses
+p: print schedule
+q: quit
+
+[120] Smith 10
+[130] Baker 30
+[140] Jones 40
+
+
+a: add course
+r: remove course
+s: schedule lecture
+c: print courses
+p: print schedule
+q: quit
+
+Professor course students:
+No space.
+
+
+a: add course
+r: remove course
+s: schedule lecture
+c: print courses
+p: print schedule
+q: quit
+
+Professor course students:
+140 exists.
+
+
+a: add course
+r: remove course
+s: schedule lecture
+c: print courses
+p: print schedule
+q: quit
+
+Professor course students:
+No space.
+
+
+a: add course
+r: remove course
+s: schedule lecture
+c: print courses
+p: print schedule
+q: quit
+
+[120] Smith 10
+[130] Baker 30
+[140] Jones 40
+
+
+a: add course
+r: remove course
+s: schedule lecture
+c: print courses
+p: print schedule
+q: quit
+

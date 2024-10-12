@@ -1,0 +1,149 @@
+Enter number of choices:
+Max choice: 'Z'
+Enter answer key:
+Enter wrong answer penalty:
+Enter student answers:
+
+[M/m] Print mean
+[S/s] Print standard deviation
+[G/g] Print grade range
+[I/i] Print student info in range
+[H/h] Draw histogram
+[Q/q] Quit
+5.08
+##
+
+[M/m] Print mean
+[S/s] Print standard deviation
+[G/g] Print grade range
+[I/i] Print student info in range
+[H/h] Draw histogram
+[Q/q] Quit
+2.91
+##
+
+[M/m] Print mean
+[S/s] Print standard deviation
+[G/g] Print grade range
+[I/i] Print student info in range
+[H/h] Draw histogram
+[Q/q] Quit
+[ 0, 1): -------
+[ 1, 2): 
+[ 2, 3): -
+[ 3, 4): *
+[ 4, 5): --------
+[ 5, 6): *-
+[ 6, 7): ---
+[ 7, 8): --
+[ 8, 9): 
+[ 9,10]: --------
+
+##
+
+[M/m] Print mean
+[S/s] Print standard deviation
+[G/g] Print grade range
+[I/i] Print student info in range
+[H/h] Draw histogram
+[Q/q] Quit
+Enter grade range:
+7
+##
+
+[M/m] Print mean
+[S/s] Print standard deviation
+[G/g] Print grade range
+[I/i] Print student info in range
+[H/h] Draw histogram
+[Q/q] Quit
+Enter grade range:
+19
+##
+
+[M/m] Print mean
+[S/s] Print standard deviation
+[G/g] Print grade range
+[I/i] Print student info in range
+[H/h] Draw histogram
+[Q/q] Quit
+Enter grade range:
+14
+##
+
+[M/m] Print mean
+[S/s] Print standard deviation
+[G/g] Print grade range
+[I/i] Print student info in range
+[H/h] Draw histogram
+[Q/q] Quit
+Enter grade range:
+10
+##
+
+[M/m] Print mean
+[S/s] Print standard deviation
+[G/g] Print grade range
+[I/i] Print student info in range
+[H/h] Draw histogram
+[Q/q] Quit
+Enter index range:
+000:   9,  10,   1,  4.40
+001:   9,   8,   3,  4.42
+002:  20,   0,   0, 10.00
+003:   7,  11,   2,  3.39
+004:  20,   0,   0, 10.00
+005:   5,  12,   3,  2.38
+006:   8,   8,   4,  3.92
+007:   8,  11,   1,  3.89
+008:  20,   0,   0, 10.00
+009:  15,   5,   0,  7.45
+010:  10,   9,   1,  4.91
+011:  10,   7,   3,  4.93
+012:  11,   6,   3,  5.44
+013:  20,   0,   0, 10.00
+014:  20,   0,   0, 10.00
+015:   0,  20,   0,  0.00
+016:   0,  20,   0,  0.00
+017:  11,   6,   3,  5.44
+018:   0,  20,   0,  0.00
+019:   0,  20,   0,  0.00
+020:  20,   0,   0, 10.00
+021:   0,  20,   0,  0.00
+022:   8,  10,   2,  3.90
+023:  20,   0,   0, 10.00
+024:  14,   5,   1,  6.95
+025:  13,   6,   1,  6.44
+026:  10,   7,   3,  4.93
+027:   8,   9,   3,  3.91
+028:  12,   8,   0,  5.92
+029:  11,   8,   1,  5.42
+030:  10,  10,   0,  4.90
+031:   7,  12,   1,  3.38
+032:  11,   8,   1,  5.42
+033:  11,   5,   4,  5.45
+034:   0,  20,   0,  0.00
+035:   0,  20,   0,  0.00
+036:   8,  11,   1,  3.89
+037:  11,   9,   0,  5.41
+038:  15,   5,   0,  7.45
+039:   7,  11,   2,  3.39
+040:  12,   8,   0,  5.92
+041:  12,   7,   1,  5.93
+042:  13,   7,   0,  6.43
+043:  10,   8,   2,  4.92
+044:  10,  10,   0,  4.90
+045:  11,   8,   1,  5.42
+046:  20,   0,   0, 10.00
+047:  11,   9,   0,  5.41
+048:   8,  12,   0,  3.88
+049:   8,  11,   1,  3.89
+
+##
+
+[M/m] Print mean
+[S/s] Print standard deviation
+[G/g] Print grade range
+[I/i] Print student info in range
+[H/h] Draw histogram
+[Q/q] Quit

@@ -1,0 +1,76 @@
+Enter number of choices:
+Enter number of choices:
+Enter number of choices:
+Enter number of choices:
+Max choice: 'C'
+Enter answer key:
+Enter wrong answer penalty:
+Error. Enter non-positive value:
+Error. Enter non-positive value:
+Enter student answers:
+
+[M/m] Print mean
+[S/s] Print standard deviation
+[G/g] Print grade range
+[I/i] Print student info in range
+[H/h] Draw histogram
+[Q/q] Quit
+5.00
+##
+
+[M/m] Print mean
+[S/s] Print standard deviation
+[G/g] Print grade range
+[I/i] Print student info in range
+[H/h] Draw histogram
+[Q/q] Quit
+5.00
+##
+
+[M/m] Print mean
+[S/s] Print standard deviation
+[G/g] Print grade range
+[I/i] Print student info in range
+[H/h] Draw histogram
+[Q/q] Quit
+[ 0, 1): -
+[ 1, 2): 
+[ 2, 3): 
+[ 3, 4): 
+[ 4, 5): 
+[ 5, 6): 
+[ 6, 7): 
+[ 7, 8): 
+[ 8, 9): 
+[ 9,10]: -
+
+##
+
+[M/m] Print mean
+[S/s] Print standard deviation
+[G/g] Print grade range
+[I/i] Print student info in range
+[H/h] Draw histogram
+[Q/q] Quit
+Enter grade range:
+2
+##
+
+[M/m] Print mean
+[S/s] Print standard deviation
+[G/g] Print grade range
+[I/i] Print student info in range
+[H/h] Draw histogram
+[Q/q] Quit
+Enter index range:
+000:   0,   2,   0,  0.00
+001:   2,   0,   0, 10.00
+
+##
+
+[M/m] Print mean
+[S/s] Print standard deviation
+[G/g] Print grade range
+[I/i] Print student info in range
+[H/h] Draw histogram
+[Q/q] Quit

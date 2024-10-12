@@ -1,0 +1,138 @@
+
+
+a: add course
+r: remove course
+s: schedule lecture
+c: print courses
+p: print schedule
+q: quit
+
+Professor course students:
+120 added.
+
+
+a: add course
+r: remove course
+s: schedule lecture
+c: print courses
+p: print schedule
+q: quit
+
+Professor course students:
+130 added.
+
+
+a: add course
+r: remove course
+s: schedule lecture
+c: print courses
+p: print schedule
+q: quit
+
+Professor course students:
+140 added.
+
+
+a: add course
+r: remove course
+s: schedule lecture
+c: print courses
+p: print schedule
+q: quit
+
+Course duration:
+140 not scheduled.
+
+
+a: add course
+r: remove course
+s: schedule lecture
+c: print courses
+p: print schedule
+q: quit
+
+Course duration:
+120 scheduled in 0.
+
+
+a: add course
+r: remove course
+s: schedule lecture
+c: print courses
+p: print schedule
+q: quit
+
+
+[20]
+       MON
+10:00  120 
+11:00  120 
+12:00   -  
+
+
+a: add course
+r: remove course
+s: schedule lecture
+c: print courses
+p: print schedule
+q: quit
+
+Course duration:
+130 not scheduled.
+
+
+a: add course
+r: remove course
+s: schedule lecture
+c: print courses
+p: print schedule
+q: quit
+
+Course duration:
+130 scheduled in 0.
+
+
+a: add course
+r: remove course
+s: schedule lecture
+c: print courses
+p: print schedule
+q: quit
+
+Course duration:
+120 not scheduled.
+
+
+a: add course
+r: remove course
+s: schedule lecture
+c: print courses
+p: print schedule
+q: quit
+
+
+[20]
+       MON
+10:00  120 
+11:00  120 
+12:00  130 
+
+
+a: add course
+r: remove course
+s: schedule lecture
+c: print courses
+p: print schedule
+q: quit
+
+Course duration:
+150 not found.
+
+
+a: add course
+r: remove course
+s: schedule lecture
+c: print courses
+p: print schedule
+q: quit
+

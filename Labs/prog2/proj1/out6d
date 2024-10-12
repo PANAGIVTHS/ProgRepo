@@ -1,0 +1,190 @@
+
+R-NOK 30, 0 25
+
+A-OK 1, 1 25
+
+A-OK 2, 2 25
+
+A-OK 3, 3 25
+
+A-OK 4, 4 25
+
+A-OK 5, 5 25
+
+A-OK 6, 6 25
+
+A-OK 7, 7 25
+
+A-OK 8, 8 25
+
+A-OK 9, 9 25
+
+A-OK 10, 10 25
+
+A-OK 11, 11 25
+
+A-OK 12, 12 25
+
+A-OK 13, 13 25
+
+A-OK 14, 14 25
+
+A-OK 15, 15 25
+
+A-OK 16, 16 25
+
+A-OK 17, 17 25
+
+A-OK 18, 18 25
+
+A-OK 19, 19 25
+
+A-OK 20, 20 25
+
+A-OK 21, 21 25
+
+A-OK 22, 22 25
+
+A-OK 23, 23 25
+
+A-OK 24, 24 25
+
+A-OK 25, 25 25
+
+R-OK 25, 24 25
+
+R-OK 24, 23 25
+
+R-OK 23, 22 25
+
+F-NOK 23
+
+F-NOK 24
+
+F-NOK 25
+
+R-OK 15, 21 25
+
+R-OK 14, 20 25
+
+F-OK HERMAN PETERSON 29
+
+R-OK 13, 19 25
+
+R-OK 5, 18 25
+
+R-OK 4, 17 17
+
+F-OK WILLIAM MCGRATH 32
+
+F-NOK 4
+
+R-OK 21, 16 17
+
+R-OK 22, 15 17
+
+R-OK 17, 14 17
+
+R-OK 16, 13 17
+
+R-OK 1, 12 17
+
+R-OK 3, 11 17
+
+R-OK 2, 10 17
+
+R-OK 18, 9 9
+
+F-NOK 1
+
+F-OK WILLIAM MCGRATH 32
+
+F-OK MICHAEL JACKSON 7
+
+F-NOK 25
+
+R-OK 10, 8 9
+
+R-OK 6, 7 9
+
+R-OK 19, 6 9
+
+R-OK 8, 5 9
+
+R-OK 7, 4 9
+
+R-OK 9, 3 9
+
+R-OK 11, 2 9
+
+R-OK 12, 1 1
+
+##
+20 RHYS STEPHENS 12
+
+A-OK 1, 2 9
+
+A-OK 2, 3 9
+
+A-OK 3, 4 9
+
+A-OK 4, 5 9
+
+A-OK 5, 6 9
+
+A-OK 6, 7 9
+
+A-OK 7, 8 9
+
+A-OK 8, 9 9
+
+A-OK 9, 10 17
+
+F-NOK 12
+
+F-OK WILLIAM MCGRATH 32
+
+F-OK MARY BENITEZ 2
+
+R-OK 1, 9 9
+
+R-OK 3, 8 9
+
+R-OK 5, 7 9
+
+R-OK 7, 6 9
+
+R-OK 9, 5 9
+
+R-OK 2, 4 9
+
+R-OK 4, 3 9
+
+R-OK 6, 2 9
+
+R-OK 8, 1 1
+
+R-OK 20, 0 1
+
+F-NOK 20
+
+F-NOK 9
+
+F-NOK 8
+
+F-NOK 1
+
+F-NOK 2
+
+##
+
+R-NOK 20, 0 1
+
+R-NOK 1, 0 1
+
+A-OK 10, 1 1
+
+##
+10 MIKE CHIVERS 3
+
+F-OK MIKE CHIVERS 3

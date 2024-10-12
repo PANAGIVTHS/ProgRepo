@@ -1,0 +1,73 @@
+Για κάθε ένα από τα παρακάτω τεστ χρησιμοποιήστε:
+* για τη μεταγλώττιση τις τιμές των σταθερών που αναφέρονται και 
+* κατά την εκτέλεση τα ορίσματα προγράμματος που αναφέρονται.
+
+Τα τεστ που σας δίνουμε αποτελούν υποτεστ στα αντίστοιχα τεστ του autolab. 
+
+Τα κείμενα για τα τεστ 1-4 προέρχονται από το βιβλίο:
+Cry, The Beloved Country
+του Alan Paton
+
+==============================
+test0 : διάφορες οριακές περιπτώσεις στα ορίσματα
+Δε δίνεται 
+ 
+==============================
+test1: -p 
+
+#define MAX_WORDS 100
+#define MAX_WORD_LEN 24
+#define MAX_SYNONYMS 100
+#define MAX_LINE_LEN 50
+#define MAX_FILENAME_LEN 20
+
+==============================
+test2: -p
+
+#define MAX_WORDS 50
+#define MAX_WORD_LEN 24
+#define MAX_SYNONYMS 100
+#define MAX_LINE_LEN 48
+#define MAX_FILENAME_LEN 20
+
+==============================
+test3: -m
+
+#define MAX_WORDS 150
+#define MAX_WORD_LEN 24
+#define MAX_SYNONYMS 100
+#define MAX_LINE_LEN 70
+#define MAX_FILENAME_LEN 20
+
+==============================
+test4: -m -p 
+
+#define MAX_WORDS 150
+#define MAX_WORD_LEN 24
+#define MAX_SYNONYMS 100
+#define MAX_LINE_LEN 70
+#define MAX_FILENAME_LEN 20
+
+==============================
+
+test5: -r s_in5 -p 
+
+#define MAX_WORDS 100
+#define MAX_WORD_LEN 24
+#define MAX_SYNONYMS 100
+#define MAX_LINE_LEN 70
+#define MAX_FILENAME_LEN 20
+
+==============================
+test6: -m -r s_in6 -p 
+
+#define MAX_WORDS 36
+#define MAX_WORD_LEN 10
+#define MAX_SYNONYMS 79 
+#define MAX_LINE_LEN 70
+#define MAX_FILENAME_LEN 20
+
+==============================
+test7: μεγάλο κείμενο
+Δε δίνεται
+==============================

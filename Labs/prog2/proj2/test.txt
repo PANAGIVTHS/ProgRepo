@@ -1,0 +1,70 @@
+a 3672 Panos Tsogkas 1
+a 9 Babalhs Bobos 500
+a 239 Babalhs Bobos 90
+a 49 Baba Bobos 510
+a 59 Blhs Bobos 520
+a 96 alhs Bobos 50
+a 2 St bos 230
+
+
+g 3672 1
+g 3672 2
+g 3672 3
+g 22 1
+
+i 3672 9
+i 3672 3
+i 3672 2
+i 3672 72
+i 2 1
+
+l 3672
+l 2
+l 9
+
+s
+
+n Bob
+n Bobos
+n Bos
+n Tsogkas
+
+c
+s
+
+n Bob
+n Bobos
+n Bos
+n Tsogkas
+t
+
+a 72 Pan kas 1
+a 29 Bab os 500
+a 22 St os 230
+
+
+t
+
+
+g 3672 1
+g 3672 2
+g 3672 3
+g 72 1
+g 2 1
+
+i 3672 9
+i 3672 3
+i 3672 2
+i 3672 72
+i 2 1
+
+l 3672
+l 2
+l 9
+
+
+
+
+l 3672
+
+q
